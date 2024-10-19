@@ -1,0 +1,6 @@
+module:org.example.crapsgame
+org.example.crapsgame
+org.example.crapsgame.controller
+org.example.crapsgame.model
+org.example.crapsgame.view
+org.example.crapsgame.view.alert
